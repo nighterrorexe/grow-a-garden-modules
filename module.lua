@@ -6,7 +6,7 @@ Module.__index = Module
 -- 	return
 -- end
 
-local Utility = loadstring(game:HttpGet("https://raw.githubusercontent.com/hajibeza/Module/main/GAG_Utility.lua"))()
+local Utility = loadstring(game:HttpGet("https://raw.githubusercontent.com/nighterrorexe/grow-a-garden-modules/refs/heads/main/Utility.lua"))()
 
 local BackPack = Utility.BackPack
 local HumanoidRootPart = Utility.HumanoidRootPart
